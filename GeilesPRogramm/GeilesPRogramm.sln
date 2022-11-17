@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeilesPRogramm", "GeilesPRogramm\GeilesPRogramm.csproj", "{2294D8B1-E8C9-44AA-ADE9-862F479C77C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{9B9C7B75-260B-46B5-B9F0-23E61BAFD29A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2294D8B1-E8C9-44AA-ADE9-862F479C77C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2294D8B1-E8C9-44AA-ADE9-862F479C77C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2294D8B1-E8C9-44AA-ADE9-862F479C77C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9C7B75-260B-46B5-B9F0-23E61BAFD29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9C7B75-260B-46B5-B9F0-23E61BAFD29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9C7B75-260B-46B5-B9F0-23E61BAFD29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9C7B75-260B-46B5-B9F0-23E61BAFD29A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
