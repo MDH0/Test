@@ -1,3 +1,3 @@
-﻿var nummer = 3;
+﻿var nummer = 5;
 
 Console.WriteLine(nummer * nummer);
